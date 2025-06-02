@@ -46,4 +46,4 @@ Avg T: 27.5 | Avg H: 46.2 | Avg P: 170.1 → Fan Speed: 2
 
 * Watchdog timer is enabled for safety (15s timeout).
 * You must define cloud variables (`aspspeed`, `asplamp`, `otomatikMod`, etc.) in the Arduino IoT Cloud UI.
-* **Make sure to install required libraries
+* **Make sure to install required libraries: **************************\`\`**************************, and others**
